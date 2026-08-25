@@ -1,45 +1,250 @@
 [
   {
     "id": 1,
-    "topic": "NeuroCare",
-    "keywords": ["neurocare", "platform", "application", "app"],
-    "content": "NeuroCare is an AI-assisted doctor appointment platform designed to help patients find suitable doctors based on their illness and location."
+    "topic": "Personal & Contact Information",
+    "keywords": [
+      "name",
+      "joydeep paul",
+      "full name",
+      "joydeep",
+      "paul",
+      "location",
+      "address",
+      "asansol",
+      "west bengal",
+      "india",
+      "phone",
+      "mobile",
+      "contact number",
+      "+91 9635172639",
+      "email",
+      "joydeeprnp8821@gmail.com",
+      "portfolio",
+      "website",
+      "paulhere.netlify.app",
+      "github",
+      "github.com/joydeep-07"
+    ],
+    "content": "Name: Joydeep Paul[cite: 1]. Current Title: Frontend Developer [React.js][cite: 1]. Location: Asansol, West Bengal, India[cite: 1]. Contact Phone Number: +91 9635172639[cite: 1]. Email Address: joydeeprnp8821@gmail.com[cite: 1]. Official Portfolio Website: paulhere.netlify.app[cite: 1]. GitHub Repository Profile: github.com/joydeep-07[cite: 1]."
   },
   {
     "id": 2,
-    "topic": "Appointments",
-    "keywords": ["appointment", "booking", "doctor", "request"],
-    "content": "Patients can request an appointment with a doctor. The appointment request is reviewed by the administrator before the appointment date and time are confirmed."
+    "topic": "Professional Profile & Capabilities",
+    "keywords": [
+      "professional summary",
+      "profile",
+      "frontend developer",
+      "react.js developer",
+      "skills summary",
+      "clean code",
+      "scalable applications",
+      "performance optimization",
+      "usability",
+      "user experience",
+      "ui design",
+      "animations"
+    ],
+    "content": "Joydeep Paul is a Frontend Developer specializing in React.js with hands-on experience building responsive, modern, and interactive web applications[cite: 1]. Tech stack expertise includes React.js, JavaScript (ES6+), TypeScript, Tailwind CSS, GSAP, and Framer Motion[cite: 1]. Core capabilities involve developing reusable modular components, integrating REST APIs, managing client-side application state, and implementing smooth animations with responsive UI designs[cite: 1]. Additionally, he possesses working knowledge of backend engineering including Node.js, Express.js, MongoDB, authentication, and REST API development[cite: 1]. He is committed to writing clean, maintainable code and building scalable applications focused on high performance, usability, and optimal user experience[cite: 1]."
   },
   {
     "id": 3,
-    "topic": "Appointment Approval",
+    "topic": "Technical Skills - Languages & Core Web Technologies",
     "keywords": [
-      "approval",
-      "admin",
-      "confirm",
-      "confirmation",
-      "date",
-      "time"
+      "programming languages",
+      "javascript",
+      "es6+",
+      "typescript",
+      "html",
+      "html5",
+      "css",
+      "css3",
+      "web technologies"
     ],
-    "content": "The administrator confirms the appointment date and time. The doctor should not see the appointment request before the administrator approves it."
+    "content": "Languages: JavaScript (ES6+)[cite: 1], TypeScript (Working Knowledge)[cite: 1], HTML5[cite: 1], CSS3[cite: 1]."
   },
   {
     "id": 4,
-    "topic": "Doctor Login",
-    "keywords": ["doctor", "login", "otp", "email"],
-    "content": "Doctors can log into the platform using their email address and OTP authentication."
+    "topic": "Technical Skills - Frontend Frameworks & Libraries",
+    "keywords": [
+      "frontend skills",
+      "react.js",
+      "react hooks",
+      "redux",
+      "redux toolkit",
+      "context api",
+      "react router",
+      "component architecture",
+      "reusable components",
+      "responsive web design",
+      "spa development",
+      "single page application",
+      "tailwind css",
+      "bootstrap",
+      "framer motion",
+      "gsap"
+    ],
+    "content": "Frontend Engineering Frameworks, Libraries & Methods: React.js[cite: 1], React Hooks[cite: 1], Redux[cite: 1], Redux Toolkit[cite: 1], Context API[cite: 1], React Router[cite: 1], Component Architecture[cite: 1], Reusable Components[cite: 1], Responsive Web Design[cite: 1], SPA (Single Page Application) Development[cite: 1], Tailwind CSS[cite: 1], Bootstrap[cite: 1], Framer Motion[cite: 1], GSAP (GreenSock Animation Platform)[cite: 1]."
   },
   {
     "id": 5,
-    "topic": "AI Doctor Suggestions",
-    "keywords": ["ai", "doctor", "suggestion", "illness", "location"],
-    "content": "The AI system can help suggest doctors based on the patient's illness and nearby location."
+    "topic": "Technical Skills - Backend Infrastructure & Databases",
+    "keywords": [
+      "backend skills",
+      "databases",
+      "node.js",
+      "express.js",
+      "rest api development",
+      "mongodb",
+      "supabase",
+      "backend-as-a-service",
+      "baas"
+    ],
+    "content": "Backend Technologies: Node.js (Working Knowledge)[cite: 1], Express.js for REST API Development (Working Knowledge)[cite: 1]. Databases & Cloud Services: MongoDB[cite: 1], Supabase (Backend-as-a-Service)[cite: 1]."
   },
   {
     "id": 6,
-    "topic": "Prescriptions",
-    "keywords": ["prescription", "medicine", "doctor"],
-    "content": "Doctors can provide prescriptions to patients after consultation."
+    "topic": "Technical Skills - Tools, Deployment Platforms & Engineering Concepts",
+    "keywords": [
+      "developer tools",
+      "git",
+      "github",
+      "vite",
+      "vs code",
+      "postman",
+      "npm",
+      "netlify",
+      "vercel",
+      "rest api integration",
+      "state management",
+      "performance optimization",
+      "lazy loading",
+      "cross-browser compatibility",
+      "version control",
+      "git workflow"
+    ],
+    "content": "Tools & Hosting Platforms: Git[cite: 1], GitHub[cite: 1], Vite[cite: 1], VS Code[cite: 1], Postman[cite: 1], NPM[cite: 1], Netlify[cite: 1], Vercel[cite: 1]. Engineering Concepts & Best Practices: REST API Integration[cite: 1], Application State Management[cite: 1], Performance Optimization[cite: 1], Lazy Loading[cite: 1], Cross-Browser Compatibility[cite: 1], Responsive Design[cite: 1], Version Control (Git Workflow)[cite: 1]."
+  },
+  {
+    "id": 7,
+    "topic": "Work Experience - Unified Mentors Internship",
+    "keywords": [
+      "work experience",
+      "internship",
+      "unified mentors",
+      "frontend developer intern",
+      "duration",
+      "march 2026",
+      "june 2026",
+      "agile workflow",
+      "react.js components",
+      "rest api integration",
+      "state management",
+      "performance optimization",
+      "re-renders",
+      "cross-browser fixing"
+    ],
+    "content": "Company: Unified Mentors[cite: 1]. Role: Frontend Developer Intern[cite: 1]. Duration: March 2026 – June 2026 (3 Months)[cite: 1]. Key Responsibilities & Achievements: (1) Constructed responsive React.js user interfaces utilizing modular, hook-based reusable components while working inside an Agile team structure alongside UI designers and backend engineers[cite: 1]. (2) Integrated external REST APIs for real-time dynamic data rendering and structured client-side state management systems to preserve UI consistency across views[cite: 1]. (3) Boosted application performance by minimizing component re-renders and debugging cross-browser and cross-device interface issues for a smooth user experience[cite: 1]."
+  },
+  {
+    "id": 8,
+    "topic": "Project Details - NeuroCare (AI Powered Appointment Booking Platform)",
+    "keywords": [
+      "project",
+      "neurocare",
+      "ai appointment platform",
+      "healthcare app",
+      "tech stack",
+      "react.js",
+      "redux toolkit",
+      "tailwind css",
+      "framer motion",
+      "gsap",
+      "groq api",
+      "role-based access",
+      "patient role",
+      "doctor role",
+      "admin role",
+      "appointment workflow",
+      "email otp",
+      "google oauth",
+      "pdf generation",
+      "a4 prescription",
+      "cloudinary",
+      "medical history",
+      "chat persistence",
+      "mongodb"
+    ],
+    "content": "Project Name: AI Powered Appointment Booking Platform [NEUROCARE][cite: 1]. Tech Stack: React.js, Redux Toolkit, Tailwind CSS, Framer Motion, GSAP, Node.js/Express, MongoDB, Groq API, Cloudinary[cite: 1]. Deep Breakdown: Healthcare application featuring role-based access control (RBAC) across 3 distinct personas: Patient, Doctor, and Admin[cite: 1]. Groq API Integration: Embedded Groq API to power an intelligent AI assistant capable of recommending doctors based on patient symptoms/illness and location, as well as offering preventive healthcare guidance[cite: 1]. Authentication: Implemented Email OTP and Google OAuth for account verification and profile setup[cite: 1]. Workflow Architecture: Engineered a 3-stage admin-controlled appointment pipeline (Request -> Admin Review/Approval -> Final Confirmation) designed to restrict doctor access to appointment requests until administrator approval is granted[cite: 1]. Technical Features: Built automated A4 prescription PDF generation, integrated Cloudinary for profile avatar management, recorded medical history logs, and maintained persistent AI chat histories stored via MongoDB[cite: 1]."
+  },
+  {
+    "id": 9,
+    "topic": "Project Details - Developer Portfolio",
+    "keywords": [
+      "project",
+      "developer portfolio",
+      "personal portfolio",
+      "website project",
+      "tech stack",
+      "react.js",
+      "supabase",
+      "tailwind css",
+      "react router",
+      "gsap",
+      "client-side routing",
+      "real-time content",
+      "no redeployment",
+      "modular ui"
+    ],
+    "content": "Project Name: Developer Portfolio[cite: 1]. Tech Stack: React.js, Supabase, Tailwind CSS, React Router, GSAP[cite: 1]. Deep Breakdown: Designed and built a fully responsive personal web portfolio featuring smooth client-side page routing using React Router to highlight technical projects, skills, and contact pathways[cite: 1]. Backend Integration: Integrated Supabase for secure data transactions and dynamic content management, allowing content updates in real time without triggering site re-deployments[cite: 1]. Architecture: Applied reusable component architecture principles to maintain modular, scalable UI elements across the application[cite: 1]."
+  },
+  {
+    "id": 10,
+    "topic": "Educational Qualification - Master of Computer Applications (MCA)",
+    "keywords": [
+      "education",
+      "mca",
+      "master of computer applications",
+      "post graduation",
+      "amity university",
+      "amity university online",
+      "2026-2028",
+      "software engineering"
+    ],
+    "content": "Degree Program: Master of Computer Applications (MCA)[cite: 1]. Institution: Amity University [Online][cite: 1]. Academic Duration: 2026 – 2028[cite: 1]. Field of Study / Specialization: Software Engineering[cite: 1]."
+  },
+  {
+    "id": 11,
+    "topic": "Educational Qualification - Bachelor of Computer Applications (BCA)",
+    "keywords": [
+      "education",
+      "bca",
+      "bachelor of computer applications",
+      "undergraduation",
+      "graduation",
+      "kazi nazrul university",
+      "2022-2025",
+      "fullstack web development",
+      "database management system",
+      "dbms"
+    ],
+    "content": "Degree Program: Bachelor of Computer Applications (BCA)[cite: 1]. Institution: Kazi Nazrul University[cite: 1]. Academic Duration: 2022 – 2025[cite: 1]. Key Curriculum / Focus Areas: Fullstack Web Development, Database Management System (DBMS)[cite: 1]."
+  },
+  {
+    "id": 12,
+    "topic": "Educational Qualification - Schooling (Class 10 & Class 12)",
+    "keywords": [
+      "education",
+      "schooling",
+      "higher secondary",
+      "class 12",
+      "12th grade",
+      "2022",
+      "secondary",
+      "class 10",
+      "10th grade",
+      "2020",
+      "cbse board"
+    ],
+    "content": "Higher Secondary (Class 12): Completed in 2022 under the CBSE (Central Board of Secondary Education) board[cite: 1]. Secondary (Class 10): Completed in 2020 under the CBSE board[cite: 1]."
   }
 ]
