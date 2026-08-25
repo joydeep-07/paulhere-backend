@@ -11,12 +11,11 @@
       "frontend developer",
       "react developer",
       "web developer",
+      "software developer",
       "location",
       "city",
       "asansol",
       "west bengal",
-      "owner",
-      "creator",
       "india",
       "email",
       "email address",
@@ -29,6 +28,8 @@
       "github",
       "github profile",
       "github username",
+      "github repository",
+      "github repositories",
       "joydeep-07",
       "linkedin",
       "linkedin profile",
@@ -37,9 +38,19 @@
       "twitter",
       "social media",
       "contact",
-      "contact details"
+      "contact details",
+      "contact information",
+      "how to contact",
+      "contact joydeep",
+      "collaborate",
+      "collaboration",
+      "hire",
+      "hiring",
+      "frontend opportunities",
+      "job opportunities",
+      "remote opportunities"
     ],
-    "content": "Joydeep Paul is a Frontend Developer specializing in React.js and modern web development. He is based in Asansol, West Bengal, India. Email: joydeeprnp8821@gmail.com. Portfolio: paulhere.netlify.app. GitHub username: joydeep-07. GitHub profile: github.com/joydeep-07. LinkedIn profile: linkedin.com/in/joydeep-paul-06b37926. Instagram: @mr.paul_16. He also maintains professional and personal projects through his portfolio and GitHub."
+    "content": "Joydeep Paul is a Frontend Developer specializing in React.js and modern web development. He is based in Asansol, West Bengal, India. Email: joydeeprnp8821@gmail.com. Portfolio: paulhere.netlify.app. GitHub username: joydeep-07. GitHub profile: github.com/joydeep-07. LinkedIn profile: linkedin.com/in/joydeep-paul-06b37926. Instagram: @mr.paul_16. He also maintains professional projects through his portfolio and GitHub. For collaboration, hiring or frontend opportunities, visitors can contact him through his email, portfolio or professional social profiles."
   },
   {
     "id": 2,
@@ -48,6 +59,7 @@
       "about joydeep",
       "about me",
       "who is joydeep",
+      "who is paul",
       "who is joydeep paul",
       "joydeep paul profile",
       "joydeep paul developer",
@@ -55,6 +67,8 @@
       "personal profile",
       "professional profile",
       "introduction",
+      "tell me about yourself",
+      "tell me more about joydeep",
       "frontend developer",
       "react developer",
       "software developer",
@@ -68,9 +82,12 @@
       "skills",
       "experience",
       "education",
-      "projects"
+      "projects",
+      "technology",
+      "technologies",
+      "projects and experience"
     ],
-    "content": "Joydeep Paul is a Frontend Developer from Asansol, West Bengal, India, focused primarily on React.js and modern frontend engineering. He works with JavaScript, TypeScript, React.js, Tailwind CSS, GSAP, Framer Motion, Redux Toolkit, React Router and other modern web technologies. He also has working knowledge of Node.js, Express.js, MongoDB, Supabase and REST API development. Joydeep enjoys building responsive, interactive and visually polished web applications. His development approach focuses on reusable components, clean code, responsive design, performance, usability and smooth user experiences. He is currently pursuing an MCA and is developing his skills toward becoming a stronger full-stack/MERN developer."
+    "content": "Joydeep Paul is a Frontend Developer from Asansol, West Bengal, India, focused primarily on React.js and modern full-stack engineering. He works with JavaScript, TypeScript, React.js, Tailwind CSS, GSAP, Framer Motion, Redux Toolkit and React Router. He also has working knowledge of Node.js, Express.js, MongoDB, Supabase and REST API development. Joydeep enjoys building responsive, interactive and visually polished web applications. His development approach focuses on reusable components, clean code, responsive design, performance, usability and smooth user experiences. He is currently pursuing an MCA and is developing his skills toward becoming a stronger full-stack/MERN developer."
   },
   {
     "id": 3,
@@ -106,9 +123,15 @@
       "animations",
       "api integration",
       "rest api",
-      "state management"
+      "state management",
+      "frontend expertise",
+      "technical expertise",
+      "core expertise",
+      "core skills",
+      "technical skills",
+      "professional capabilities"
     ],
-    "content": "Joydeep Paul specializes in frontend development with React.js. He builds responsive, modern and interactive web applications using reusable component architecture and modern JavaScript practices. His frontend stack includes React.js, JavaScript ES6+, TypeScript, Tailwind CSS, Redux Toolkit, React Router, GSAP and Framer Motion. He has experience integrating REST APIs, managing application state, creating responsive layouts, implementing animations and optimizing frontend performance. He also has working knowledge of Node.js, Express.js, MongoDB, Supabase, authentication and backend API development. His development focus includes clean code, maintainability, responsive design, usability, performance and user experience."
+    "content": "Joydeep specializes in frontend development with React.js. His core technical skills include JavaScript ES6+, TypeScript, React.js, Tailwind CSS, Redux Toolkit, React Router, GSAP and Framer Motion. He builds responsive and interactive web applications using reusable component architecture and modern JavaScript practices. He has experience integrating REST APIs, managing application state, creating responsive layouts, implementing animations and optimizing frontend performance. He also has working knowledge of Node.js, Express.js, MongoDB, Supabase, authentication and backend API development. His strongest area is frontend engineering, while he is actively expanding his full-stack and MERN capabilities."
   },
   {
     "id": 4,
@@ -131,9 +154,14 @@
       "modern javascript",
       "dom",
       "responsive css",
-      "semantic html"
+      "semantic html",
+      "typescript experience",
+      "javascript experience",
+      "how comfortable with typescript",
+      "typescript skills",
+      "javascript skills"
     ],
-    "content": "Joydeep's core web technologies include JavaScript ES6+, TypeScript, HTML5 and CSS3. JavaScript is his primary programming language for frontend development. He has working knowledge of TypeScript and uses modern JavaScript concepts for React application development."
+    "content": "Joydeep's core web technologies include JavaScript ES6+, TypeScript, HTML5 and CSS3. JavaScript is his primary programming language for frontend development. He has working knowledge of TypeScript and uses modern JavaScript concepts for React application development. He is comfortable working with modern JavaScript, React-based application development and responsive HTML/CSS."
   },
   {
     "id": 5,
@@ -172,9 +200,18 @@
       "greensock",
       "scrolltrigger",
       "animations",
-      "micro interactions"
+      "micro interactions",
+      "frontend skills",
+      "frontend technologies",
+      "react projects",
+      "react project",
+      "which react projects",
+      "responsive design",
+      "mobile responsiveness",
+      "mobile responsive",
+      "responsive layouts"
     ],
-    "content": "Joydeep's primary frontend framework is React.js. He works with React Hooks, Redux Toolkit, Context API, React Router, reusable components and modular component architecture. His styling and UI technologies include Tailwind CSS and Bootstrap. For animation and interaction, he works with GSAP, GSAP ScrollTrigger and Framer Motion. He focuses on responsive layouts, component reusability, application state management, smooth interactions and modern user interfaces."
+    "content": "Joydeep's primary frontend framework is React.js. He works with React Hooks, Redux Toolkit, Context API, React Router, reusable components and modular component architecture. His styling and UI technologies include Tailwind CSS and Bootstrap. For animation and interaction, he works with GSAP, GSAP ScrollTrigger and Framer Motion. He focuses on responsive layouts, component reusability, application state management, smooth interactions and modern user interfaces. His React experience is demonstrated through projects including Rentease, Bharat Vraman, NeuroCare and his personal developer portfolio."
   },
   {
     "id": 6,
@@ -182,6 +219,8 @@
     "keywords": [
       "backend",
       "backend development",
+      "backend experience",
+      "backend skills",
       "node",
       "node.js",
       "nodejs",
@@ -213,9 +252,15 @@
       "mern",
       "mern stack",
       "full stack",
-      "fullstack"
+      "fullstack",
+      "mern projects",
+      "backend projects",
+      "backend development experience",
+      "how comfortable with backend",
+      "rest api development",
+      "build rest api"
     ],
-    "content": "Joydeep has working knowledge of backend development using Node.js and Express.js. He can build and integrate REST APIs and work with MongoDB and Supabase. His backend-related knowledge includes API development, authentication, authorization, JSON-based communication, Bearer token authentication and CRUD operations. His overall MERN knowledge covers MongoDB, Express.js, React.js and Node.js."
+    "content": "Joydeep has working knowledge of backend development using Node.js and Express.js. He can build and integrate REST APIs and work with MongoDB and Supabase. His backend-related knowledge includes API development, authentication, authorization, JSON-based communication, Bearer token authentication and CRUD operations. His MERN knowledge covers MongoDB, Express.js, React.js and Node.js. He has applied these backend skills in projects such as NeuroCare and his portfolio AI chatbot. His strongest area remains frontend development, while backend development is an actively developing part of his full-stack skill set."
   },
   {
     "id": 7,
@@ -225,6 +270,9 @@
       "developer tools",
       "git",
       "github",
+      "github profile",
+      "github repository",
+      "github repositories",
       "version control",
       "git workflow",
       "github workflow",
@@ -251,9 +299,13 @@
       "cross browser",
       "debugging",
       "performance optimization",
-      "lazy loading"
+      "lazy loading",
+      "source code",
+      "github code",
+      "open source",
+      "repositories"
     ],
-    "content": "Joydeep uses Git and GitHub for version control and project management. His development tools include VS Code, Vite, NPM and Postman. He has experience deploying frontend projects using Netlify and Vercel and backend services using platforms such as Render. He works with environment variables, API configuration, CORS, debugging and deployment workflows. He also focuses on responsive behavior, cross-browser compatibility and frontend performance."
+    "content": "Joydeep uses Git and GitHub for version control and project management. His development tools include VS Code, Vite, NPM and Postman. He has experience deploying frontend projects using Netlify and Vercel and backend services using Render. He works with environment variables, API configuration, CORS, debugging and deployment workflows. His GitHub profile is github.com/joydeep-07, where visitors can explore his repositories and project source code."
   },
   {
     "id": 8,
@@ -269,6 +321,7 @@
       "march 2026",
       "june 2026",
       "3 months",
+      "three months",
       "agile",
       "agile team",
       "react components",
@@ -286,9 +339,14 @@
       "debugging",
       "ui development",
       "responsive interface",
-      "frontend team"
+      "frontend team",
+      "internship experience",
+      "internship learning",
+      "what did you learn",
+      "professional experience",
+      "frontend experience"
     ],
-    "content": "Joydeep worked as a Frontend Developer Intern at Unified Mentors from March 2026 to June 2026 for approximately three months. During the internship, he developed responsive React.js interfaces using modular and reusable hook-based components. He worked in an Agile environment alongside UI designers and backend engineers. His responsibilities included REST API integration, client-side state management, responsive UI development, debugging, reducing unnecessary component re-renders, performance optimization and resolving cross-browser and cross-device interface issues."
+    "content": "Joydeep worked as a Frontend Developer Intern at Unified Mentors from March 2026 to June 2026 for approximately three months. During the internship, he developed responsive React.js interfaces using modular and reusable hook-based components. He worked in an Agile environment alongside UI designers and backend engineers. His responsibilities included REST API integration, client-side state management, responsive UI development, debugging, reducing unnecessary component re-renders, performance optimization and resolving cross-browser and cross-device interface issues. The internship helped him gain practical experience working with React, APIs, responsive interfaces, debugging and team-based development."
   },
   {
     "id": 9,
@@ -358,7 +416,13 @@
       "pdf",
       "medical history",
       "chat history",
-      "appointment workflow"
+      "appointment workflow",
+      "neurocare technologies",
+      "neurocare tech stack",
+      "neurocare architecture",
+      "ai recommendation",
+      "doctor discovery",
+      "healthcare platform"
     ],
     "content": "NeuroCare is a MERN-based AI-powered healthcare and doctor appointment platform developed as a major project. It is designed around patients, doctors and administrators. The platform uses React.js, Redux Toolkit, Tailwind CSS, GSAP, Framer Motion, Node.js, Express.js, MongoDB, Groq API and Cloudinary. It includes role-based access control, Email OTP authentication, Google OAuth, doctor discovery based on illness and location, AI-powered doctor recommendations, preventive healthcare guidance, medical history, prescription PDF generation and an administrator-controlled appointment workflow. The appointment process follows a Request -> Admin Review/Approval -> Confirmation model so doctors do not directly receive unapproved appointment requests."
   },
@@ -397,9 +461,15 @@
       "render",
       "netlify",
       "frontend project",
-      "personal website"
+      "personal website",
+      "portfolio projects",
+      "portfolio technology",
+      "portfolio tech stack",
+      "portfolio architecture",
+      "where can I see your projects",
+      "show me your portfolio"
     ],
-    "content": "Joydeep's personal developer portfolio is built with React.js and modern frontend technologies. The website includes Home, About, Projects and Contact sections and showcases his skills, experience and projects. It uses Tailwind CSS, React Router, GSAP, ScrollTrigger, Framer Motion and Lenis for styling, routing, animation and smooth scrolling. Supabase is used for dynamic data such as messages, reviews and subscribers. The portfolio also includes an AI chatbot connected to a separate Node.js and Express backend. The frontend is deployed on Netlify and the backend is deployed on Render."
+    "content": "Joydeep's personal developer portfolio is built with React.js and modern frontend technologies. The website includes Home, About, Projects and Contact sections and showcases his skills, experience and projects. It uses Tailwind CSS, React Router, GSAP, ScrollTrigger, Framer Motion and Lenis for styling, routing, animation and smooth scrolling. Supabase is used for dynamic data such as messages, reviews and subscribers. The portfolio also includes an AI chatbot connected to a separate Node.js and Express backend. The frontend is deployed on Netlify and the backend is deployed on Render. The portfolio can be visited at paulhere.netlify.app."
   },
   {
     "id": 12,
@@ -436,7 +506,7 @@
       "mobile chatbot",
       "desktop chatbot"
     ],
-    "content": "Joydeep has implemented an AI chatbot for his portfolio. The chatbot uses a React frontend and a Node.js/Express backend connected to the Groq API. The backend is deployed on Render and the portfolio frontend is deployed on Netlify. The chatbot supports user and AI messages, message timestamps, loading states, Markdown rendering and responsive desktop/mobile layouts. The chatbot does not use a database to permanently store conversations; chats are intended to disappear when the page is reloaded. The chatbot API endpoint is hosted through the portfolio backend."
+    "content": "Joydeep has implemented an AI chatbot for his portfolio. The chatbot uses a React frontend and a Node.js/Express backend connected to the Groq API. The backend is deployed on Render and the portfolio frontend is deployed on Netlify. The chatbot supports user and AI messages, message timestamps, loading states, Markdown rendering, follow-up questions and responsive desktop/mobile layouts. The chatbot does not use a database to permanently store conversations; chats are intended to disappear when the page is reloaded. The chatbot API endpoint is hosted through the portfolio backend."
   },
   {
     "id": 13,
@@ -455,9 +525,16 @@
       "frontend project",
       "responsive website",
       "project showcase",
-      "portfolio project"
+      "portfolio project",
+      "bharat vraman technologies",
+      "bharat vraman tech stack",
+      "bharat vraman project",
+      "what is bharat vraman",
+      "tell me about bharat vraman",
+      "bharat vraman project details",
+      "see bharat vraman"
     ],
-    "content": "Bharat Vraman is one of Joydeep's frontend projects, focused on presenting Indian temples and travel-related information through a modern web interface. The project is showcased on his portfolio under the project route /project/bharat-vraman. It demonstrates his frontend development, responsive design and UI implementation skills."
+    "content": "Bharat Vraman is one of Joydeep's frontend projects, focused on presenting Indian temples and travel-related information through a modern web interface. The project is showcased on his portfolio under the project route /project/bharat-vraman. It demonstrates his frontend development, responsive design and UI implementation skills. Bharat Vraman is primarily a frontend project designed to provide an engaging and responsive presentation of Indian temple and travel information."
   },
   {
     "id": 14,
@@ -482,13 +559,23 @@
       "responsive design",
       "ui ux",
       "modern interface",
-      "frontend only"
+      "frontend only",
+      "rentease technologies",
+      "rentease tech stack",
+      "rentease architecture",
+      "rentease project",
+      "rentease technical architecture",
+      "rentease challenges",
+      "rentease role",
+      "what technologies did you use",
+      "what was your role",
+      "what challenges did you face",
+      "rentease project details"
     ],
-    "content": "Rentease is a frontend-focused React project featuring both client-side and admin-side interfaces. The project demonstrates responsive UI development, modern component architecture and interactive animations using GSAP and Framer Motion. It was designed as a fully responsive web application with a focus on user experience and polished frontend interactions."
+    "content": "Rentease is a frontend-focused React project featuring both client-side and admin-side interfaces. The project demonstrates responsive UI development, modern component architecture and interactive animations using GSAP and Framer Motion. It was designed as a fully responsive web application with a focus on user experience and polished frontend interactions. Joydeep's work on Rentease focused on frontend implementation, responsive interfaces, reusable components and interactive UI animations."
   },
-
   {
-    "id": 17,
+    "id": 15,
     "topic": "Education - MCA",
     "keywords": [
       "education",
@@ -505,12 +592,19 @@
       "software engineering",
       "computer applications",
       "higher education",
-      "masters"
+      "masters",
+      "current education",
+      "currently studying",
+      "what are you studying",
+      "why mca",
+      "mca goals",
+      "mca career",
+      "education background"
     ],
-    "content": "Joydeep is pursuing a Master of Computer Applications (MCA) through Amity University. His academic period is 2026–2028. The program is related to computer applications and software engineering."
+    "content": "Joydeep is pursuing a Master of Computer Applications (MCA) through Amity University. His academic period is 2026–2028. The program is related to computer applications and software engineering. His MCA supports his broader goal of developing stronger software engineering and full-stack development skills."
   },
   {
-    "id": 18,
+    "id": 16,
     "topic": "Education - BCA",
     "keywords": [
       "education",
@@ -528,12 +622,15 @@
       "fullstack",
       "database management",
       "dbms",
-      "computer applications"
+      "computer applications",
+      "bachelor degree",
+      "undergraduate education",
+      "education background"
     ],
     "content": "Joydeep completed his Bachelor of Computer Applications (BCA) from Kazi Nazrul University during 2022–2025. His academic exposure included Full Stack Web Development and Database Management Systems (DBMS), providing a foundation for his current software development work."
   },
   {
-    "id": 19,
+    "id": 17,
     "topic": "Education - Schooling",
     "keywords": [
       "school",
@@ -556,7 +653,7 @@
     "content": "Joydeep completed Class 10 in 2020 and Class 12 in 2022 under the CBSE board."
   },
   {
-    "id": 20,
+    "id": 18,
     "topic": "Career Goals & Interests",
     "keywords": [
       "career goal",
@@ -581,12 +678,19 @@
       "developer job",
       "frontend job",
       "react job",
-      "software developer job"
+      "software developer job",
+      "what type of frontend roles",
+      "frontend opportunities",
+      "remote opportunities",
+      "career direction",
+      "long term goal",
+      "future plans",
+      "software engineering career"
     ],
-    "content": "Joydeep's career focus is software and web development, with React.js and frontend engineering as his strongest area. He is also expanding his backend and MERN skills through Node.js, Express.js, MongoDB and REST API development. His longer-term direction is toward becoming a stronger full-stack/MERN developer while continuing to improve frontend architecture, performance, UI/UX and modern web application development."
+    "content": "Joydeep's career focus is software and web development, with React.js and frontend engineering as his strongest area. He is also expanding his backend and MERN skills through Node.js, Express.js, MongoDB and REST API development. His longer-term direction is toward becoming a stronger full-stack/MERN developer while continuing to improve frontend architecture, performance, UI/UX and modern web application development. He is interested in frontend development opportunities and roles where he can continue growing as a software developer."
   },
   {
-    "id": 21,
+    "id": 19,
     "topic": "Development Approach & Strengths",
     "keywords": [
       "strengths",
@@ -611,12 +715,17 @@
       "scalable architecture",
       "api integration",
       "state management",
-      "modern frontend"
+      "modern frontend",
+      "responsive approach",
+      "mobile responsiveness",
+      "how do you approach responsive design",
+      "development process",
+      "coding practices"
     ],
-    "content": "Joydeep focuses on building clean, maintainable and reusable frontend code. He prefers component-based architecture, responsive layouts, meaningful user interactions and smooth animations. His development process includes API integration, state management, debugging, performance optimization and cross-device testing. He aims to create interfaces that are visually polished while remaining practical, responsive and maintainable."
+    "content": "Joydeep focuses on building clean, maintainable and reusable frontend code. He prefers component-based architecture, responsive layouts, meaningful user interactions and smooth animations. His development process includes API integration, state management, debugging, performance optimization and cross-device testing. When approaching responsive design, he focuses on flexible layouts, responsive Tailwind CSS utilities, appropriate breakpoints and testing across different screen sizes. He aims to create interfaces that are visually polished while remaining practical, responsive and maintainable."
   },
   {
-    "id": 22,
+    "id": 20,
     "topic": "Overall Technology Stack",
     "keywords": [
       "tech stack",
@@ -650,8 +759,17 @@
       "postman",
       "netlify",
       "vercel",
-      "render"
+      "render",
+      "core skills",
+      "technical skills",
+      "main technologies",
+      "frontend technologies",
+      "backend technologies",
+      "technologies used",
+      "what technologies do you use",
+      "which technologies",
+      "technology experience"
     ],
-    "content": "Joydeep's main technology stack consists of React.js, JavaScript ES6+, TypeScript, HTML5, CSS3, Tailwind CSS, Redux Toolkit, React Router, GSAP, Framer Motion and Lenis on the frontend. His backend working knowledge includes Node.js, Express.js, REST APIs and MongoDB. He also works with Supabase, Groq API and Cloudinary depending on project requirements. His development tools and deployment platforms include Git, GitHub, Vite, VS Code, NPM, Postman, Netlify, Vercel and Render."
+    "content": "Joydeep's main technology stack consists of React.js, JavaScript ES6+, TypeScript, HTML5, CSS3, Tailwind CSS, Redux Toolkit, React Router, GSAP, Framer Motion and Lenis on the frontend. His backend working knowledge includes Node.js, Express.js, REST APIs and MongoDB. He also works with Supabase, Groq API and Cloudinary depending on project requirements. His development tools and deployment platforms include Git, GitHub, Vite, VS Code, NPM, Postman, Netlify, Vercel and Render. His strongest technical area is frontend development with React.js, while his broader goal is to become a stronger full-stack/MERN developer."
   }
 ]
