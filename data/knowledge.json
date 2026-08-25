@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "topic": "NeuroCare",
+    "keywords": ["neurocare", "platform", "application", "app"],
+    "content": "NeuroCare is an AI-assisted doctor appointment platform designed to help patients find suitable doctors based on their illness and location."
+  },
+  {
+    "id": 2,
+    "topic": "Appointments",
+    "keywords": ["appointment", "booking", "doctor", "request"],
+    "content": "Patients can request an appointment with a doctor. The appointment request is reviewed by the administrator before the appointment date and time are confirmed."
+  },
+  {
+    "id": 3,
+    "topic": "Appointment Approval",
+    "keywords": [
+      "approval",
+      "admin",
+      "confirm",
+      "confirmation",
+      "date",
+      "time"
+    ],
+    "content": "The administrator confirms the appointment date and time. The doctor should not see the appointment request before the administrator approves it."
+  },
+  {
+    "id": 4,
+    "topic": "Doctor Login",
+    "keywords": ["doctor", "login", "otp", "email"],
+    "content": "Doctors can log into the platform using their email address and OTP authentication."
+  },
+  {
+    "id": 5,
+    "topic": "AI Doctor Suggestions",
+    "keywords": ["ai", "doctor", "suggestion", "illness", "location"],
+    "content": "The AI system can help suggest doctors based on the patient's illness and nearby location."
+  },
+  {
+    "id": 6,
+    "topic": "Prescriptions",
+    "keywords": ["prescription", "medicine", "doctor"],
+    "content": "Doctors can provide prescriptions to patients after consultation."
+  }
+]
