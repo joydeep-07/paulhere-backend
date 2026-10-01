@@ -4,6 +4,7 @@ const express = require("express");
 const cors = require("cors");
 
 const chatRoutes = require("./routes/chatRoutes");
+const authRoutes = require("./routes/authRoutes"); // Added Auth Routes
 
 const app = express();
 
@@ -22,6 +23,7 @@ app.use(express.json());
 
 // Routes
 app.use("/api/chat", chatRoutes);
+app.use("/api/auth", authRoutes); // Wired up Auth Routes
 
 // Health check
 app.get("/", (req, res) => {
