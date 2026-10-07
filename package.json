@@ -3,18 +3,21 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ingest": "node scripts/ingestKnowledge.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@huggingface/transformers": "^4.3.1",
     "@supabase/supabase-js": "^2.117.2",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "groq-sdk": "^1.5.0",
-    "nodemailer": "^10.0.13"
+    "nodemailer": "^10.0.13",
+    "pdf-parse": "^2.4.5"
   }
 }

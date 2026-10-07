@@ -1,2 +1,4 @@
 node_modules
 .env
+data/knowledge-index.json
+data/knowledge-index.json.tmp

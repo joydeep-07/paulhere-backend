@@ -1,4 +1,4 @@
-const { getRelevantKnowledge } = require("../services/knowledgeService");
+const { getRelevantKnowledge } = require("../services/ragService");
 
 const { generateAIResponse } = require("../services/groqService");
 
@@ -24,17 +24,13 @@ const chat = async (req, res) => {
 
     console.log("User Question:", question);
 
-    const relevantKnowledge = getRelevantKnowledge(question);
-
-    console.log("Relevant Knowledge:", relevantKnowledge);
+    const relevantKnowledge = await getRelevantKnowledge(question);
 
     const context = relevantKnowledge.length
       ? relevantKnowledge
-          .map((item) => `Topic: ${item.topic}\nInformation: ${item.content}`)
+          .map((item) => `Retrieved knowledge ${item.id}:\n${item.text}`)
           .join("\n\n")
       : "No relevant information was found in the application knowledge.";
-
-    console.log("Context:", context);
 
     const reply = await generateAIResponse({
       question,
@@ -57,9 +53,12 @@ const chat = async (req, res) => {
     console.error("Status:", error.status);
     console.error("=================================");
 
-    return res.status(500).json({
+    const isRagError = error.code && error.code.startsWith("RAG_");
+    return res.status(isRagError ? 503 : 500).json({
       success: false,
-      message: error.message || "Something went wrong",
+      message: isRagError
+        ? "The knowledge base is temporarily unavailable. Please try again later."
+        : error.message || "Something went wrong",
       error: error.error || null,
     });
   }
